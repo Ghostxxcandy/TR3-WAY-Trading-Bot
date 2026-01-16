@@ -1,0 +1,8 @@
+{
+  "name": "TR3-WAY v1.0",
+  "description": "A sophisticated AI-powered trading dashboard for autonomous market participation, featuring real-time data analysis, sentiment-driven signals, and risk-managed execution.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
